@@ -3,5 +3,5 @@ module "mod_sns" {
 }
 
 module "mod_rol" {
-  source = "./modules/sns"
+  source = "./modules/rol"
 }
